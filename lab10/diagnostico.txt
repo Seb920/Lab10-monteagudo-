@@ -1,0 +1,27 @@
+===== DIAGNOSTICO DEL SISTEMA =====
+Fecha y hora: dom 14 jun 2026 17:38:07 -05
+
+--- MEMORIA ---
+Memoria total:  9,5Gi
+Memoria usada:  1,3Gi
+Memoria libre:  6,5Gi
+Memoria Swap:   
+
+--- CPU ---
+Uso CPU: 0,0%
+
+--- TIEMPO ENCENDIDO ---
+up 33 minutes
+
+--- TOP 10 PROCESOS POR MEMORIA ---
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ububtus+    2542  3.2  4.5 4075908 458284 ?      Ssl  17:05   1:04 /usr/bin/gnome-shell
+ububtus+    2724  0.0  1.0 296168 104932 ?       Sl   17:05   0:00 /usr/bin/VBoxClient --clipboard
+ububtus+    3237  0.0  1.0 1128684 104320 ?      Sl   17:05   0:00 /usr/libexec/mutter-x11-frames
+ububtus+    3138  0.0  0.8 651720 85672 ?        Ssl  17:05   0:00 /usr/libexec/gsd-xsettings
+ububtus+    2977  0.1  0.6 245788 69500 ?        S    17:05   0:02 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.W8PIQ3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+ububtus+    4048  0.5  0.6 2819028 66492 ?       Sl   17:37   0:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+ububtus+    2759  0.0  0.6 839904 65276 ?        Sl   17:05   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+ububtus+    3333  0.3  0.6 713616 63408 ?        Ssl  17:06   0:07 /usr/libexec/gnome-terminal-server
+root        1208  0.1  0.4 631212 44920 ?        Ssl  17:04   0:02 /usr/libexec/fwupd/fwupd
+ububtus+    2659  0.0  0.4 608280 43624 ?        Ssl  17:05   0:00 /usr/libexec/evolution-source-registry
